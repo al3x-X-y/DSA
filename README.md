@@ -1,7 +1,7 @@
 
 # DSA
 
-I gonna start uploading all the codes and topics I learn related to Data Structure and Algorithms.
+I gonna start uploading all the codes and resources, I learn related to Data Structure and Algorithms.
 
 
 ## 🛠 Skills

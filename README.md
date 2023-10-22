@@ -1,1 +1,18 @@
-# DSA-
+
+# DSA
+
+I gonna start uploading all the codes and topics I learn related to Data Structure and Algorithms.
+
+
+## 🛠 Skills
+C, Cpp, Java, Linux, Docker...
+
+
+## Contributing
+
+Contributions are always welcome!
+
+Feel free to add any important resources related to this.
+
+Please adhere to this project's `code of conduct`.
+

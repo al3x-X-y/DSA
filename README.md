@@ -5,7 +5,7 @@ I gonna start uploading all the codes and resources, I learn related to Data Str
 
 
 ## 🛠 Skills
-C, Cpp, Java, Linux, Docker...
+Learning...
 
 
 ## Contributing
